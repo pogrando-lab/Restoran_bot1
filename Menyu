@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class InteractiveTelegramBot {
 
-    private static final String TOKEN = "8968190895:AAFtTp5nq0m-mWMSOW0UD7_ecM-J1wTcHek";
+    private static final String TOKEN = "8968190895:AAEXOGiDos1XHtqT5fa-N3nkX4otrWC9i3w";
     private static final String BASE_URL = "https://api.telegram.org/bot" + TOKEN + "/";
     
     private static final List<String> POSITIONS = new ArrayList<>();
